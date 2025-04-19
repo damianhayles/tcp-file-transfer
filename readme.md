@@ -60,3 +60,10 @@ For macOS:
 
 ``` bash
 dotnet publish -c Release -r osx-x64 --self-contained true
+```
+
+run it with:
+
+``` bash
+./csharpclient
+
